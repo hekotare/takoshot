@@ -14,5 +14,5 @@ resフォルダをコピーしてプロジェクトのフォルダに突っ込�
 res/sound内の
 Blue_Garnet.mp3（メニュー用）
 Bloom_Bloom.mp3, Pop_Plus_Steps.mp3, Subject_System.mp3（ステージBGM）
-handclap.mp3（ゲーム結果）
-は無音ファイルなので、他の音楽ファイルで上書きしてください
+handclap.mp3（ゲーム結果画面の効果音）
+は無音ファイルなので、他のサウンドファイルで上書きしてください
